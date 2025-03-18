@@ -1,0 +1,31 @@
+body {
+  background-color: aquamarine;
+}
+
+img {
+  height: 300px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+#tempo-cozimento {
+  font-weight: bold;
+}
+
+.ingredientes li {
+  list-style: square;
+}
+.tempo {
+  color: gray;
+}
+.citacao a {
+  color: SeaGreen;
+}
+h1,
+h2,
+p,
+li {
+  font-family: Helvetica;
+}
